@@ -1,5 +1,5 @@
 {
-  "name": "React-Redux Authentication",
+  "name": "react-redux-authentication",
   "version": "1.0.0",
   "description": "Basic client side authentication in react with redux",
   "main": "index.js",
